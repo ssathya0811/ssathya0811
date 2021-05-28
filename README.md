@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java , C++ , Python
 - 🌱 I’m currently Pursuing B.E ( Electrical and Electronic Engineering ) 
 
-- 📫 How to reach me ...@sathyaclasher in instagram
+
 
 
 <!---
